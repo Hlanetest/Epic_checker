@@ -1,0 +1,12 @@
+{
+    "urls": [
+        {
+            "name": "CPU Model 1",
+            "link": "https://example.com/cpu1"
+        },
+        {
+            "name": "CPU Model 2",
+            "link": "https://example.com/cpu2"
+        }
+    ]
+}
